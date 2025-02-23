@@ -1,0 +1,47 @@
+Found PDF: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/covid-19.pdf
+Found PDF: https://www.covid.gov/sites/default/files/documents/Services-and-Supports-for-Longer-Term-Impacts-of-COVID-19-08012022.pdf
+Found PDF: https://www.ed.gov/sites/ed/files/documents/coronavirus/reopening.pdf
+Found PDF: https://www.osha.gov/sites/default/files/publications/OSHA3990.pdf
+Found PDF: https://theindependentpanel.org/wp-content/uploads/2021/05/COVID-19-Make-it-the-Last-Pandemic_final.pdf
+Found PDF: https://www.cms.gov/files/document/medicare-covid-19-data-snapshot-fact-sheet.pdf
+Found PDF: https://oversight.house.gov/wp-content/uploads/2024/12/12.04.2024-SSCP-FINAL-REPORT.pdf
+Found PDF: https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200311-sitrep-51-covid-19.pdf
+Skipping invalid PDF: https://www.osha.gov/sites/default/files/publications/OSHA3990.pdf
+Okay, I've summarized the articles about Covid-19 according to the schema you provided:
+
+**summary**:
+
+COVID-19, or Coronavirus Disease 2019, is a disease caused by a coronavirus called SARS-CoV-2. It spreads easily from person to person, mainly through respiratory droplets produced when an infected person coughs, sneezes, or talks. Symptoms can range from mild to severe and may include fever, chills, cough, shortness of breath, fatigue, muscle aches, headache, loss of taste or smell, sore throat, congestion, nausea, vomiting, and diarrhea. Some individuals, particularly older adults and those with underlying medical conditions, are more likely to experience severe illness, hospitalization, or death. Some people may also experience long-term effects after the initial infection, known as "Long COVID".
+
+**background**:
+
+The first case of COVID-19 was identified in the U.S. on January 20, 2020 (Becerra, 2022). The virus emerged in 2019 and quickly spread worldwide, leading the World Health Organization to declare a pandemic on March 11, 2020. It is believed that the virus originated in bats, and possibly transmitted to humans through an intermediate animal (HHS, 2022). The rapid spread and severity of the disease, coupled with potential impacts on the economy and society, motivated global efforts to understand and address the pandemic (HHS, 2022). As one source said, the world wasn't ready and ignored warnings (The Independent Panel, 2021)
+
+**how_it_works**:
+
+The SARS-CoV-2 virus primarily spreads through respiratory droplets. The virus enters the body and can cause a range of symptoms. In some individuals, it can lead to severe illness, affecting multiple organ systems (HHS, 2022). The severity of symptoms and potential for complications are higher in older adults and individuals with underlying medical conditions (CDC, 2024). In some cases, the initial infection can lead to longer-term health implications, known as Long COVID. (HHS, 2022)
+
+**types**:
+
+The articles do not explicitly describe different types of Covid 19.
+
+**long_covid**:
+
+Long COVID is defined as signs, symptoms, and conditions that continue or develop after initial COVID-19 or SARS-CoV-2 infection (HHS, 2022). Symptoms are present four weeks or more after the acute phase of infection, may be multisystemic, and may present with a relapsing–remitting pattern and progression or worsening over time (HHS, 2022). Common symptoms include tiredness or fatigue, symptoms that get worse after physical or mental effort, fever, difficulty breathing, chest pain, neurological symptoms such as difficulty thinking or concentrating, headache, sleep problems, dizziness, changes in smell or taste, and digestive symptoms (HHS, 2022).
+
+**vaccines**:
+
+Vaccines are available and recommended for everyone 6 months of age and older (Vaccine Information Statement, 2024). Vaccination is the best way to protect from Covid 19 (Vaccine Information Statement, 2024). Some people might need additional doses of a Covid 19 vaccine (Vaccine Information Statement, 2024). The Moderna and Pfizer vaccines are FDA approved (Vaccine Information Statement, 2024).
+
+**References:**
+
+Becerra, X. (2022). *Services and Supports for Longer-Term Impacts of COVID-19.* Department of Health and Human Services.
+
+Centers for Disease Control and Prevention. (2024). *COVID-19 Vaccines for People who are Moderately or Severely Immunocompromised.* Retrieved from [www.cdc.gov/vaccines](www.cdc.gov/vaccines)
+
+The Independent Panel for Pandemic Preparedness & Response (2021). *COVID-19: Make it the Last Pandemic.*
+
+U.S. Department of Education, Office of Planning, Evaluation and Policy Development (2021).*ED COVID-19 Handbook, Volume 1: Strategies for Safely Reopening Elementary and Secondary Schools.* Washington, DC: U.S. Department of Education.
+
+Vaccine Information Statement (2024). *COVID-19 Vaccine: What you need to know*.
+

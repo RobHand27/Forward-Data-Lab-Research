@@ -1,0 +1,5 @@
+free-proxy
+serpapi
+google-genai
+dotenv
+PyPDF2
