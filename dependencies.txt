@@ -3,3 +3,5 @@ serpapi
 google-genai
 dotenv
 PyPDF2
+pandas
+pymongo

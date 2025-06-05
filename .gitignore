@@ -1,0 +1,15 @@
+.env
+
+config.yaml
+
+venv
+
+/venv
+
+/gpt-researcher
+
+/mongo-docs
+
+/test-articles
+
+docker-compose.yaml
